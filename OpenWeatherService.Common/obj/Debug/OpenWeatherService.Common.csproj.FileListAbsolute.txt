@@ -1,0 +1,7 @@
+C:\Sanket\Personal\Dot Net\OpenWeatherService\OpenWeatherService.Common\obj\Debug\OpenWeatherService.Common.Resources.resources
+C:\Sanket\Personal\Dot Net\OpenWeatherService\OpenWeatherService.Common\obj\Debug\OpenWeatherService.Common.csproj.GenerateResource.Cache
+C:\Sanket\Personal\Dot Net\OpenWeatherService\OpenWeatherService.Common\bin\Debug\OpenWeatherService.Common.dll
+C:\Sanket\Personal\Dot Net\OpenWeatherService\OpenWeatherService.Common\bin\Debug\OpenWeatherService.Common.pdb
+C:\Sanket\Personal\Dot Net\OpenWeatherService\OpenWeatherService.Common\obj\Debug\OpenWeatherService.Common.dll
+C:\Sanket\Personal\Dot Net\OpenWeatherService\OpenWeatherService.Common\obj\Debug\OpenWeatherService.Common.pdb
+C:\Sanket\Personal\Dot Net\OpenWeatherService\OpenWeatherService.Common\obj\Debug\OpenWeatherService.Common.csprojResolveAssemblyReference.cache

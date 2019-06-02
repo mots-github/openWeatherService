@@ -1,0 +1,49 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            $("#button1").click(function (evt) {
+                debugger
+                var files = $("#file1").get(0).files;
+                if (files.length > 0) {
+                    var data = new FormData();
+                    for (i = 0; i < files.length; i++) {
+                        data.append("file" + i, files[i]);
+                    }
+                    $.ajax({
+                        type: "POST",
+                        url: "/api/weather",
+                        contentType: false,
+                        processData: false,
+                        data: data,
+                        success: function (message) {                            
+                                alert(message);
+                        },
+                        error: function () {
+                            alert("Error while invoking the Open Weather Service");
+                        }
+                    });
+                }
+            });
+        });
+
+    </script>
+</head>
+<body>
+    <form>
+        <span>Select file(s) to upload :</span>
+        <input id="file1" name="file1" type="file" multiple="multiple" />
+        <input id="button1" type="button" value="Upload" />
+    </form>
+</body>
+</html>

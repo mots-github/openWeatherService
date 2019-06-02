@@ -1,0 +1,10 @@
+C:\Sanket\Personal\Dot Net\AsyncFileUpload-Code\AsyncFileUploadWebAPIDemo\bin\OpenWeatherService.dll.config
+C:\Sanket\Personal\Dot Net\AsyncFileUpload-Code\AsyncFileUploadWebAPIDemo\bin\OpenWeatherService.dll
+C:\Sanket\Personal\Dot Net\AsyncFileUpload-Code\AsyncFileUploadWebAPIDemo\bin\OpenWeatherService.pdb
+C:\Sanket\Personal\Dot Net\AsyncFileUpload-Code\AsyncFileUploadWebAPIDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Sanket\Personal\Dot Net\AsyncFileUpload-Code\AsyncFileUploadWebAPIDemo\bin\Microsoft.Web.Infrastructure.xml
+C:\Sanket\Personal\Dot Net\AsyncFileUpload-Code\AsyncFileUploadWebAPIDemo\obj\Debug\OpenWeatherService.dll
+C:\Sanket\Personal\Dot Net\AsyncFileUpload-Code\AsyncFileUploadWebAPIDemo\obj\Debug\OpenWeatherService.pdb
+C:\Sanket\Personal\Dot Net\AsyncFileUpload-Code\AsyncFileUploadWebAPIDemo\obj\Debug\OpenWeatherService.csprojResolveAssemblyReference.cache
+C:\Sanket\Personal\Dot Net\AsyncFileUpload-Code\AsyncFileUploadWebAPIDemo\obj\Debug\OpenWeatherService.Resource.resources
+C:\Sanket\Personal\Dot Net\AsyncFileUpload-Code\AsyncFileUploadWebAPIDemo\obj\Debug\OpenWeatherService.csproj.GenerateResource.Cache
