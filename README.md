@@ -1,4 +1,4 @@
-# openWeatherService
+# OpenWeatherService
 weather service that will retrieve daily information for number of cities in the world
 1.Open OpenWeatherService.sln
 2.Build  and Run 
